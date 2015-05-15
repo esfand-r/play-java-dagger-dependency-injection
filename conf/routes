@@ -1,0 +1,7 @@
+# Routes
+
+GET         /                    @controllers.Application.index
+GET         /objects             @controllers.Application.listObjects
+POST        /objects             @controllers.Application.addAnObject
+
+GET         /assets/*file        controllers.Assets.at(path="/public", file)
