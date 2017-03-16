@@ -1,6 +1,6 @@
 Play + Java + Dagger (Dependency Injection)
 =================================
- This is a simple example of dependency injection in Playframework with Dagger. 
+ This is a simple example of dependency injection in Playframework with Dagger 1. For an example using Dagger 2, refer to [play-java-dagger2-example](https://github.com/playframework/play-java-dagger2-example)
  
  This project uses.
  
